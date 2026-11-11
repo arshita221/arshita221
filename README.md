@@ -1,6 +1,6 @@
 # Hey, I'm Arshita! 👋
 
-### Software Developer | Artificial Intelligence | Machine Learning | Generative AI
+### Aspiring Software Engineer | Agentic AI | Generative AI | Backend Development
 
 🎓 **MCA Student @ Vellore Institute of Technology, Chennai**
 
@@ -113,6 +113,12 @@ Python programming exercises and training work completed during industrial train
 `Python`
 
 ---
+
+## 🔨 Currently Building
+
+- Exploring MCP-based tool integration and AI agent workflows.
+- Improving LLM application reliability through structured outputs and validation.
+- Strengthening software engineering fundamentals through hands-on development.
 
 ## 🎯 Areas I'm Exploring
 
